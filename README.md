@@ -3,7 +3,7 @@
 
 This Repository will contain 15 architectures that will help you understand 
 different usecases of services.
-This is will help you go from ZERO TO HERO in designing  architectures with cloud.
+This  will help you go from ZERO TO HERO in designing  architectures with cloud.
 
 
 
